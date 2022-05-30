@@ -1,0 +1,6 @@
+/dist/
+/build/
+node_modules/
+elm-stuff/
+src/elm-dist/elm-bundle.js
+.tool-versions
